@@ -3,7 +3,7 @@
 **Effective date:** October 11, 2026  
 **App:** MoneyMate  
 **Developer:** BlueMangoTreeHouse  
-**Contact:** Replace this line with a monitored privacy contact email before publishing.
+**Contact:** overflownode@gmail.com.
 
 This policy describes how MoneyMate handles information. Some features described below are planned and are not currently available. The sections labeled **Planned features** apply only after those features are released and enabled in the app. This document must be reviewed and updated to match the actual implementation before those features launch.
 
@@ -71,4 +71,4 @@ We may update this policy when MoneyMate's features, data practices, or legal re
 
 ## Contact
 
-For questions or privacy requests, contact **[replace with a monitored privacy contact email]**. Replace the placeholder with an address that you control before publishing this policy or submitting it to Google Play.
+For questions or privacy requests, contact **[overflownode@gmail.com]**. Replace the placeholder with an address that you control before publishing this policy or submitting it to Google Play.
