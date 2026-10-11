@@ -71,4 +71,4 @@ We may update this policy when MoneyMate's features, data practices, or legal re
 
 ## Contact
 
-For questions or privacy requests, contact **[overflownode@gmail.com]**. Replace the placeholder with an address that you control before publishing this policy or submitting it to Google Play.
+For questions or privacy requests, contact **[overflownode@gmail.com]**.
